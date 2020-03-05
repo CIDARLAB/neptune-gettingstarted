@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Neptune Getting Started Guide
 
-You can use the [editor on GitHub](https://github.com/CIDARLAB/neptune.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is the getting orientation guide to the massive set of repositories that are a part of the Neptune Project developed at CIDAR Lab. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Repository List
 
-### Markdown
+1. [Fluigi Cloud](https://github.com/CIDARLAB/Fluigi-Cloud) - node.js based serverside Framework that resides on AWS
+1. [Neptune-UI](https://github.com/CIDARLAB/Neptune-UI) - vue.js based frontend framework
+1. [miniFluigi](https://github.com/CIDARLAB/miniFluigi) - MINT Compiler and Place & Route Frontend system
+1. [pyLFR](https://github.com/CIDARLAB/pyLFR) - LFR Compiler for implemented in python (not yet public)
+1. [pyparchmint](https://github.com/CIDARLAB/pyparchmint) - ParchMINT data model library in python
+1. [LFR TestCases](https://github.com/CIDARLAB/LFR-TestCases) - Repository of LFR Test Cases used for Testing the LFR compiler
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### How to Build
 
-```markdown
-Syntax highlighted code block
+Since there are there many packages in the project, building this project is going to be a pain. Follow this quickstart guide to be able to help you out, since most of the python/java projects are converted into binaries, one would just need to manipulate binaries at the end of the day.
 
-# Header 1
-## Header 2
-### Header 3
+TBA Rest of teh guide...
 
-- Bulleted
-- List
+### Contact
 
-1. Numbered
-2. List
+Reach out to [@rkrishnasanka](https://github.com/rkrishnasanka) for more details.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CIDARLAB/neptune.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
